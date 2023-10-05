@@ -1,2 +1,1 @@
-from flask import Flask
-print(Flask.__doc__)
+print("Hello")
